@@ -1,0 +1,8 @@
+[package]
+name = "rsmario"
+version = "0.1.0"
+authors = ["dineshadepu <adepu.dinesh.a@gmail.com>"]
+
+[dependencies]
+piston_window = "0.73.0"
+piston2d-opengl_graphics = "0.49.0"
